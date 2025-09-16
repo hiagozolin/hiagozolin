@@ -1,8 +1,7 @@
 ## Oii, eu sou o Hiago
 
-- 🔭 Atualmente trabalho no TI de uma empresa produtora de capotas marítimas
-- 🌱 Cursando último ano do curso de Análise e Desenvolvimento de Sistemas pela UNIFUNEC
-- 😄 Pronomes: ele/dele
+- 🔭 Atualmente trabalho no TI de uma empresa de energias renováveis
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas pela UNIFUNEC
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiagozolin&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
